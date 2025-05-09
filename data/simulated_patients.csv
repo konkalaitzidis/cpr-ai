@@ -1,0 +1,101 @@
+patient_id,age,gender,symptoms,vitals,diagnosis,next_step
+000,77,M,fever,HR:102; BP:120/80,angina,blood test
+001,34,F,fatigue,Temp:37.5; HR:90,migraine,MRI
+002,49,M,fever,BP:120/80; HR:90,angina,blood test
+003,82,M,chest pain,HR:102; Temp:37.5,migraine,blood test
+004,77,M,fatigue,Temp:37.5; HR:90,angina,MRI
+005,52,M,fever,BP:120/80; Temp:37.5,migraine,blood test
+006,83,M,fever,BP:120/80; HR:90,flu,MRI
+007,45,M,chest pain,BP:140/90; HR:90,flu,blood test
+008,53,M,fever,HR:90; HR:102,flu,blood test
+009,46,M,headache,HR:102; Temp:37.5,migraine,blood test
+010,61,M,headache,BP:140/90; Temp:37.5,angina,ECG
+011,74,F,fever,HR:90; BP:140/90,flu,X-ray
+012,80,F,fever,HR:102; BP:120/80,angina,blood test
+013,55,M,fever,BP:140/90; BP:120/80,flu,ECG
+014,81,F,fever,BP:140/90; BP:120/80,flu,MRI
+015,31,M,fatigue,HR:90; HR:102,flu,MRI
+016,24,M,fever,BP:120/80; BP:140/90,angina,ECG
+017,70,F,headache,BP:140/90; BP:120/80,angina,X-ray
+018,25,F,fever,HR:102; HR:90,angina,ECG
+019,60,M,fever,HR:90; HR:102,flu,blood test
+020,75,F,chest pain,Temp:37.5; BP:140/90,flu,X-ray
+021,24,M,headache,HR:90; Temp:37.5,flu,ECG
+022,28,F,fatigue,Temp:37.5; BP:120/80,migraine,MRI
+023,42,M,headache,Temp:37.5; HR:102,flu,MRI
+024,24,F,fever,BP:120/80; HR:102,flu,X-ray
+025,39,M,headache,Temp:37.5; HR:102,flu,ECG
+026,47,F,chest pain,HR:90; HR:102,flu,blood test
+027,55,M,chest pain,BP:120/80; HR:90,migraine,MRI
+028,57,F,fever,HR:102; BP:140/90,angina,X-ray
+029,63,M,fever,HR:102; BP:120/80,flu,MRI
+030,67,M,chest pain,HR:102; HR:90,flu,X-ray
+031,28,M,chest pain,HR:90; Temp:37.5,migraine,MRI
+032,39,F,fever,HR:102; BP:140/90,migraine,MRI
+033,87,F,fatigue,HR:102; BP:140/90,flu,MRI
+034,44,M,fever,HR:102; BP:140/90,migraine,ECG
+035,69,F,chest pain,HR:102; Temp:37.5,migraine,X-ray
+036,52,F,chest pain,Temp:37.5; BP:140/90,migraine,MRI
+037,57,M,fatigue,Temp:37.5; HR:102,migraine,MRI
+038,30,M,headache,HR:90; BP:140/90,angina,blood test
+039,43,M,fever,Temp:37.5; HR:90,flu,X-ray
+040,20,F,fatigue,HR:90; HR:102,angina,X-ray
+041,45,M,fever,BP:140/90; BP:120/80,flu,blood test
+042,43,M,headache,BP:140/90; BP:120/80,flu,ECG
+043,38,M,fever,Temp:37.5; HR:90,flu,blood test
+044,49,M,headache,HR:90; BP:140/90,flu,blood test
+045,59,M,chest pain,HR:90; BP:140/90,angina,MRI
+046,83,F,fever,BP:120/80; BP:140/90,angina,blood test
+047,51,F,headache,BP:120/80; Temp:37.5,flu,blood test
+048,57,M,fever,BP:140/90; Temp:37.5,flu,MRI
+049,88,F,chest pain,HR:102; BP:120/80,flu,ECG
+050,70,M,chest pain,BP:140/90; Temp:37.5,flu,X-ray
+051,38,F,fatigue,HR:90; BP:120/80,angina,MRI
+052,87,F,fatigue,BP:120/80; Temp:37.5,migraine,X-ray
+053,51,F,fatigue,BP:120/80; Temp:37.5,flu,X-ray
+054,40,M,fatigue,BP:120/80; Temp:37.5,flu,blood test
+055,49,M,fever,BP:120/80; Temp:37.5,angina,X-ray
+056,82,M,headache,BP:140/90; HR:102,migraine,blood test
+057,81,F,chest pain,BP:140/90; Temp:37.5,migraine,blood test
+058,83,F,chest pain,HR:102; BP:140/90,migraine,X-ray
+059,64,M,fever,HR:102; BP:140/90,migraine,blood test
+060,64,F,headache,BP:120/80; HR:90,migraine,blood test
+061,63,M,fever,BP:120/80; BP:140/90,migraine,X-ray
+062,50,M,fever,HR:102; Temp:37.5,flu,blood test
+063,84,F,chest pain,HR:102; Temp:37.5,angina,blood test
+064,40,M,fatigue,BP:140/90; HR:90,angina,MRI
+065,23,M,headache,BP:140/90; Temp:37.5,migraine,ECG
+066,24,F,fever,HR:102; BP:120/80,migraine,X-ray
+067,46,M,chest pain,HR:102; BP:140/90,flu,blood test
+068,41,M,fatigue,BP:140/90; Temp:37.5,migraine,ECG
+069,87,F,fatigue,BP:140/90; Temp:37.5,migraine,ECG
+070,45,M,fatigue,HR:102; Temp:37.5,migraine,ECG
+071,51,F,chest pain,Temp:37.5; HR:90,flu,ECG
+072,35,M,headache,HR:102; HR:90,flu,blood test
+073,84,F,fatigue,BP:120/80; BP:140/90,flu,blood test
+074,37,M,fever,BP:120/80; Temp:37.5,angina,MRI
+075,71,M,fatigue,BP:120/80; BP:140/90,flu,MRI
+076,23,F,headache,Temp:37.5; BP:120/80,flu,blood test
+077,31,F,fever,HR:90; Temp:37.5,angina,blood test
+078,37,F,fatigue,BP:140/90; BP:120/80,angina,MRI
+079,62,F,fever,HR:90; BP:120/80,angina,blood test
+080,76,F,headache,Temp:37.5; BP:120/80,flu,blood test
+081,23,F,chest pain,BP:120/80; BP:140/90,migraine,MRI
+082,58,M,fever,HR:102; BP:120/80,flu,X-ray
+083,35,M,chest pain,HR:90; BP:120/80,flu,MRI
+084,43,F,fever,BP:120/80; BP:140/90,flu,blood test
+085,38,F,fatigue,HR:90; HR:102,migraine,X-ray
+086,51,F,fever,BP:140/90; HR:102,migraine,blood test
+087,64,M,chest pain,Temp:37.5; HR:90,angina,blood test
+088,60,F,chest pain,BP:140/90; Temp:37.5,angina,ECG
+089,44,F,fatigue,BP:120/80; Temp:37.5,flu,blood test
+090,57,M,fatigue,BP:140/90; HR:90,flu,blood test
+091,40,M,headache,BP:120/80; Temp:37.5,angina,MRI
+092,38,M,fever,Temp:37.5; BP:120/80,flu,blood test
+093,82,F,chest pain,HR:102; HR:90,angina,blood test
+094,86,F,fever,BP:140/90; HR:90,migraine,ECG
+095,38,F,chest pain,BP:120/80; HR:102,angina,blood test
+096,76,M,headache,Temp:37.5; BP:120/80,migraine,MRI
+097,24,F,fever,BP:140/90; HR:102,migraine,blood test
+098,45,M,chest pain,BP:120/80; HR:90,angina,blood test
+099,89,M,chest pain,Temp:37.5; HR:90,flu,X-ray
