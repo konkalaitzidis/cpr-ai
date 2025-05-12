@@ -1,0 +1,56 @@
+📄 Written Project Report
+🧠 Project Title:
+Clinical Pathway Recommendation System (MVP)
+
+🧭 Objective:
+The goal of this project is to build a minimal viable product (MVP) of an AI-powered clinical decision support tool that recommends the next best clinical action (e.g., lab test, imaging, treatment) for a patient admitted to a hospital.
+
+It does this by:
+
+Taking the patient’s current clinical condition as input,
+
+Using a trained machine learning model to predict the optimal next step,
+
+Dynamically updating predictions as new actions are taken.
+
+🏗️ Technologies:
+Python (data processing and ML)
+
+scikit-learn (modeling and evaluation)
+
+Google Colab (cloud-based execution)
+
+Cursor / VS Code (development)
+
+Git & GitHub (version control)
+
+🗃️ Dataset:
+The project uses synthetic data, simulating 1000 hospital admissions with attributes:
+
+Demographics: age, sex
+
+Vitals: blood pressure, heart rate
+
+Chronic conditions: diabetes, heart disease
+
+Symptoms: fever, cough
+
+Target: one of 5 possible clinical actions (e.g., CBC, Chest X-ray, etc.)
+
+🔍 ML Model:
+Model used: Random Forest Classifier
+
+Features: Standardized and label-encoded patient attributes
+
+Target: Next clinical action
+
+📊 Evaluation:
+Model performs reasonably well in distinguishing among recommended actions.
+
+Classification metrics and confusion matrix offer insight into misclassifications.
+
+Real-time prediction for new synthetic patients is functional.
+
+🚀 Status:
+✅ Phase 1: Initial scaffold and GitHub repo set up
+✅ Phase 2: Synthetic data generation, ML pipeline, model evaluation, and basic dynamic inference
