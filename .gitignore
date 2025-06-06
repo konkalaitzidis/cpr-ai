@@ -1,0 +1,10 @@
+# .gitignore
+__pycache__/
+*.pyc
+*.pkl
+*.joblib
+*.csv
+models/
+data/
+.env
+.DS_Store
