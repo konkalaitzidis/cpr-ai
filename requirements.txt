@@ -1,7 +1,7 @@
-pandas
-numpy
-scikit-learn
-matplotlib
-jupyter
-streamlit
-joblib
+pandas>=1.5.0
+numpy>=1.21.0
+scikit-learn>=1.0.0
+matplotlib>=3.5.0
+jupyter>=1.0.0
+streamlit>=1.22.0
+joblib>=1.2.0
