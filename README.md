@@ -1,4 +1,6 @@
-# Clinical Pathway Recommendation System
+# CPR-AI: Clinical Pathway Recommender AI
+
+This project has been developed as part of the Applied Artificial Intelligence (AI) in Healthcare course at Karolinska Institutet. The course provides fundamental knowledge about AI and its applications in healthcare, covering topics such as medical image analysis, data analytics, and decision support systems. More information about the course can be found [here](https://education.ki.se/course-syllabus/2QA338).
 
 This project implements a machine learning-based system for recommending clinical procedures based on patient demographics and conditions. The system uses a Random Forest model trained on clinical data to predict the most appropriate next procedure for a patient.
 
@@ -18,8 +20,8 @@ This project implements a machine learning-based system for recommending clinica
 
 1. Clone the repository:
 ```bash
-git clone <your-repository-url>
-cd cpr-v2
+git clone https://github.com/konkalaitzidis/cpr-ai.git
+cd cpr-ai
 ```
 
 2. Create a virtual environment (recommended):
@@ -50,7 +52,7 @@ streamlit run src/app.py
 ## Project Structure
 
 ```
-cpr-v2/
+cpr-ai/
 ├── data/               # Data directory
 ├── models/            # Trained models and related files
 ├── src/               # Source code
