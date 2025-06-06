@@ -35,11 +35,15 @@ env/
 .ipynb_checkpoints
 
 # Model files
+# !models/rf_model.joblib
+# !models/labels.csv
+# !models/features.txt
 *.joblib
 *.pkl
 *.h5
 
 # Data files
+# !models/labels.csv
 *.csv
 *.xlsx
 *.xls
